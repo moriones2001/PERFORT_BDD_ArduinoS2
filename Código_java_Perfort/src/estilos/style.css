@@ -1,0 +1,60 @@
+.button{
+    -fx-text-fill: rgb(49, 89, 23);
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+.button1{
+    -fx-text-fill: Aquamarine;
+    -fx-background-color: CadetBlue;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    /*-fx-padding: 5;*/
+}
+.parent{
+	-fx-background-color: #c0c0c0;
+}
+.parent2{
+	-fx-background-color: #6495ed;
+}
+.tool-bar{
+-fx-background: #6495ed;
+-fx-base: #6495ed;
+}
+.sidebar{
+	-fx-background-color: white;
+}
+.forgetLabel{
+	-fx-text-fill: #ff0404;
+}
+.forgetLabelhover{
+	-fx-text-fill: #ffffff;
+	-fx-underline: true;
+}	
+.loginBtn{
+	-fx-background-color: #c0c0c0;
+	-fx-text-fill: #ff0404;
+	-fx-background-radius: 30px;
+}
+.registerBtn{
+	-fx-background-color: transparent;
+	/*-fx-text-fill: #black;*/
+	-fx-background-radius: 10px;
+}
+.loginBtnhover{
+	-fx-background-color: transparent;
+	-fx-text-fill: #ffffff;
+	-fx-border-color: #ffffff;
+	-fx-border-width: 1px;
+	-fx-border-style: solid;
+	-fx-border-radius: 10px;
+}
+
+
+.jfxLVMarcas{
+	-fx-text-fill: black;
+	
+}
+
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
